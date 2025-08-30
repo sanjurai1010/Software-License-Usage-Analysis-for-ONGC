@@ -1,19 +1,19 @@
 # Software-License-Usage-Analysis-for-ONGC
 Analyzing ONGC software license logs to generate daily &amp; monthly usage insights with min, max, and average trends.
 
-📖 Overview
+📖 OVERVIEW:
 
 This project focuses on analyzing software license usage logs for ONGC. The goal is to understand how different software features are used over time and generate meaningful insights through daily, monthly, and overall usage reports.
 
 The analysis helps ONGC optimize license allocation, monitor peak usage, and improve cost efficiency.
 
-📊 Dataset
+📊 DATASET:
 
 Source: ONGC license usage logs
 
 Type: Time-series log data (Date, Feature, Usage counts)
 
-Attributes Used:
+ATTRIBUTES USED:
 
 Feature (software feature name)
 
@@ -25,7 +25,7 @@ Max Usage
 
 Avg Usage
 
-🛠️ Technologies Used
+🛠️ TECHNOLOGIES USED:
 
 Programming Language: Python
 
@@ -39,7 +39,7 @@ NumPy → numerical operations
 
 Environment: Jupyter Notebook
 
-⚙️ Project Workflow
+⚙️ PROJECT WORKFLOW:
 
 Data Cleaning & Preprocessing
 
@@ -63,9 +63,9 @@ Comparative feature usage across time.
 
 Reporting
 
-Exported summary reports (CSV/Excel).
+Exported summary reports (TXT/CSV).
 
-📈 Results & Insights
+📈 RESULTS AND INSIGHTS:
 
 Identified peak usage hours and features with highest demand.
 
@@ -73,7 +73,7 @@ Observed monthly growth/decline trends in software usage.
 
 Generated automated reports for ONGC management.
 
-🚀 Future Work
+🚀 FUTURE WORK:
 
 Automate reporting pipeline using ETL workflows.
 
